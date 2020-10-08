@@ -1,0 +1,109 @@
+.own-container{
+    background: #ccce00;
+    padding: 100px 0 100px 0;
+    text-align: center;
+}
+
+h1{
+    color: black;
+    font-size: 9vw;
+    font-weight: bolder;
+}
+
+h2{
+    color: white;
+    font-size: 7vw;
+    font-weight: 100;
+
+}
+
+
+.own-button {
+    align-items: center;
+    color: #ccce00;
+    background-color: black;
+    border: 1px solid black;
+    font-size: 20pt;
+    font-weight: 600;
+    margin-top: 80px;
+
+}
+.own-button:hover{
+    color: black;
+    background-color: #ccce00;
+}
+
+.own-card{
+    background: #151515;
+    color: white;
+    margin: 50px !important;
+}
+
+.own-card-button{
+    background-color: white;
+    color: black;
+    font-weight: 600;
+    border: 1px solid black;
+}
+
+.own-card-button:hover{
+    color: black;
+    background-color: #151515;
+    border: 1px solid white;
+}
+
+main{
+    background: #9d7d76 url("../img/background.jpg");
+}
+
+form{
+    padding: 40px 0 40px 0;
+}
+
+footer{
+    background: url("../img/footer-background.jpg");
+    border-top: 30px solid #ccce00;
+    color: white;
+}
+#email1, #password1{
+    background-color: #373737;
+    border: 1px solid #151515;
+}
+
+.own-form-button {
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+}
+.own-form-button:hover {
+    background: none;
+    border: 1px solid white;
+    color: white;
+}
+.own-telephone-number {
+    color: white;
+    font-size: 2rem;
+    font-weight: 900;
+}
+
+footer hr {
+    background-color: #333;
+}
+
+.own-jumbotron {
+    height: 100%;
+    background: #111;
+    color: #aaa;
+    font-weight: 100;
+    padding: 50px;
+
+}
+
+.own-copyright-text {
+    background-color: black;
+
+    text-align: center;
+    color: white;
+    padding: 30px 0 30px 0;
+    text-transform: uppercase;
+}

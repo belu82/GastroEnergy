@@ -1,0 +1,6 @@
+
+/*overwrite the bootsrap elmeent*/
+
+.bg-dark {
+    background-color: black !important;
+}
